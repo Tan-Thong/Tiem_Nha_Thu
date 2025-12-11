@@ -38,7 +38,7 @@ export const Hero: React.FC = () => {
           <div className="md:w-1/2 mt-10 md:mt-0 relative">
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl transform rotate-2 hover:rotate-0 transition-transform duration-500">
                <img 
-                src="../imgs/Background.png" 
+                src="/imgs/Background.png" 
                 alt="Đặc sản Đà Lạt" 
                 className="w-full h-auto object-cover"
               />
