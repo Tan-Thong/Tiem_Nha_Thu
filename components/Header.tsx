@@ -22,7 +22,7 @@ export const Header: React.FC<HeaderProps> = ({ cartCount, onOpenCart, currentCa
         >
           <div className="bg-brand-500 p-2 rounded-lg text-white">
             {/* <Leaf size={24} /> */}
-            <img src="/Tiem_Nha_Thu/imgs/Logo_Tiem_Nha_Thu.png" alt="" srcset="" style={{ height: '40px' }}/>
+            <img src="/imgs/Logo_Tiem_Nha_Thu.png" alt="" srcset="" style={{ height: '40px' }}/>
           </div>
           <div className="flex flex-col">
             <span className="text-xl font-bold text-brand-900 tracking-tight leading-none">Tiệm nhà Thu</span>
